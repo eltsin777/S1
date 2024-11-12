@@ -12,7 +12,12 @@ int main()
     cin >> y;
     cout << x << "+" << y << "=" << x + y << endl;
     cout << x << "-" << y << "=" << x - y << endl;
+<<<<<<< HEAD
     cout << x << "*" << y << "=" << x * y << endl; 
+=======
+    cout << x << "*" << y << "=" << x * y << endl;
+    cout << x << "/" << y << "=" << x / y << endl;
+>>>>>>> division
     return 0;
 }
 
